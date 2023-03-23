@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 # https://git-scm.com/docs/gitignore
 # https://help.github.com/articles/ignoring-files
 # Example .gitignore files: https://github.com/github/gitignore
 /.vscode/
+=======
+# https://git-scm.com/docs/gitignore
+# https://help.github.com/articles/ignoring-files
+# Example .gitignore files: https://github.com/github/gitignore
+/.vscode/
+>>>>>>> d2cc7c9e996fcf6d7ddcf0fc6ad8eaae196f96b9
 /tmp/
