@@ -1,0 +1,52 @@
+body{
+    background-color: #252525;
+}
+table{
+font-family: sans-serif;
+border: 2px solid grey;
+border-collapse: collapse;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+caption{
+font-size: 2rem;
+font-weight: bold;
+margin-bottom: 1rem;
+}
+th,
+td {
+border: solid 2px  grey;
+padding: .5rem;
+}
+tr:nth-child(0) td:nth-child(2){
+
+letter-spacing: 90px;
+padding-left: 50px;
+text-transform: uppercase;
+}
+.father-1, .child-1{
+background-color: #f0e21b;
+}
+.father-2, .child-2{
+background-color: black;
+color: aliceblue;
+}
+.father-3, .child-3{
+background-color: orange;
+}
+.father-4, .child-4{
+background-color: green;
+}
+.father-5, .child-5{
+background-color: rgb(182, 13, 13);
+}
+.father-6, .child-6{
+background-color: rgb(94, 94, 94);
+}
+.father-7, .child-7{
+background-color: rgb(41, 124, 233);
+}
+.father-8, .child-8{
+background-color: whitesmoke;
+}
